@@ -14,7 +14,7 @@ This Repository contains my implementations of a Generative Adversarial Network(
 
 **Additional Techniques:** Instance Noise 
 
-**Generator Architecture:** Fully Connected Neural Network w/ Batch Normalization
+**Generator Architecture:** Fully Connected Neural Network w/ Batch Normalization after ReLU Activation
 
 Latent Space dim: 100
 
@@ -26,7 +26,7 @@ Latent Space dim: 100
 
 4th Hidden Layer dim: 1024
 
-**Discriminator Architecture:** Fully Connected Neural Network
+**Discriminator Architecture:** Fully Connected Neural Network w/ ReLU Activation
 
 Input dim: 784
 
