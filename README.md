@@ -6,7 +6,7 @@ This Repository contains my implementations of a Generative Adversarial Network(
 ## Implementation Details:
 **Loss Function:** Jensen-Shannon Divergence
 
-**Optimizer:** ADAM with a learning rate of 0.0002, β1 = 0.5, β2 = 0.999
+**Optimizer:** ADAM with the learning rate = 0.0002, β1 = 0.5, β2 = 0.999
 
 **Training Epochs:** 10
 
