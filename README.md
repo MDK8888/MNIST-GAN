@@ -36,5 +36,10 @@ Input dim: 784
 3rd Hidden Layer dim: 314
 
 4th Hidden Layer dim: 157
-## Generated Image Sample
-![MNIST GAN Image Sample](https://user-images.githubusercontent.com/79173446/150431708-83453814-ccb5-4ac2-9072-97ddd372be70.PNG)
+## GAN Real Images
+![MNIST Real Image Sample2](https://user-images.githubusercontent.com/79173446/150605415-519715fd-03c8-48b4-9be5-33d86a3ff6fc.PNG)
+![MNIST Real Image Sample1](https://user-images.githubusercontent.com/79173446/150605445-ea27f4f0-12eb-4ad0-aebb-952d922d83ce.PNG)
+![MNIST Real Image Sample3](https://user-images.githubusercontent.com/79173446/150605455-82fa2369-3d71-4ed7-b6f2-ed0a677929d7.PNG)
+## GAN Generated Image
+![MNIST Generated Image Sample](https://user-images.githubusercontent.com/79173446/150605506-bc76327a-17e7-4731-a6f0-61a7760849bb.PNG)
+
